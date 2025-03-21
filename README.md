@@ -26,5 +26,5 @@ K-MMSE(Korean Mini-Mental State Examination)를 기반으로 한 인지 기능 �
 - Swift Charts
 
 ## 요구사항
-- iOS 16.0 이상
+- iOS 17.6 이상
 - Xcode 15.0 이상
